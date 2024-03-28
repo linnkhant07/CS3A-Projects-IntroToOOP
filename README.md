@@ -2,9 +2,9 @@
 
 Welcome to the Data Structure Projects Repository for the Introduction to Object-Oriented Programming (OOP) class!
 
-## Introduction
+## Overview
 
-This repository serves as a collection of all the projects completed throughout the Introduction to OOP course, focusing on various data structure implementations and applications. From AVL trees to stacks and queues, each project demonstrates a fundamental understanding of different data structures commonly used in software development.
+This repository serves as a collection of all the projects completed throughout the OOP and Data Structures C++ course, focusing on various data structure implementations and applications. From AVL trees to stacks and queues, each project demonstrates a fundamental understanding of different data structures commonly used in software development.
 
 ## Contents
 
@@ -32,14 +32,12 @@ This repository serves as a collection of all the projects completed throughout 
   - Description: Implementations of different types of linked lists, including singly linked lists, doubly linked lists, and circular linked lists.
   - Implementation: Versatile linked list structures for various data organization needs.
 
-*(Continue with additional projects as necessary)*
-
 ## Getting Started
 
 To get started with this repository, navigate to the specific project folder you're interested in. Inside each project folder, you'll find the following structure:
 
 - **includes:** Contains header (.h) and source (.cpp) files constructing the data structures or classes.
-- **tests:** Contains unit tests for the implemented data structures.
+- **tests:** Contains unit tests for the implemented data structures. Feel free to run either basic_test or testB
 
 Explore the implementations, experiment with the data structures, and learn about their applications in software development.
 
